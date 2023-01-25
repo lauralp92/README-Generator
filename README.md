@@ -45,5 +45,5 @@ Feel free to contact me with any questions at laura.pitcher92@gmail.com
 
 ## Links
 
-- Sample README -
-- Video Link -
+- Sample README - https://github.com/lauralp92/ReadMe-Generator/blob/main/SampleREADME.md
+- Video Link - https://drive.google.com/file/d/1X39DddUvT5i-FdrwA4gcQwS3XgSBBL-a/view
