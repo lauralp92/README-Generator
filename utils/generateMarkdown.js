@@ -12,7 +12,7 @@ function generateMarkdown(data) {
   - [Credits](#credits)
   - [License](#license)
   - [Contributing](#contributing)
-  - [Contact](#contact)
+  - [Questions](#Questions)
 
   ## Installation
   ${data.installation}
@@ -29,10 +29,10 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.contribution}
 
-  ## Contact 
-  ${data.username}
+  ## Questions 
+  ${data.username} is my GitHub username.
 
-  ${data.email}
+  Feel free to contact me with any questions at ${data.email}
 
 `;
 }

@@ -13,44 +13,44 @@ const questions = [
   {
     type: "input",
     name: "description",
-    message: "Please write a short description of your project",
+    message: "Please write a short description of your project:",
   },
   {
     type: "input",
     name: "installation",
-    message: "Please provide the steps that are required for installation",
+    message: "Please provide the steps that are required for installation:",
   },
   {
     type: "input",
     name: "usage",
-    message: "Please provide any instructions that are necessary for usage",
+    message: "Please provide any instructions that are necessary for usage:",
   },
   {
     type: "input",
     name: "credit",
     message:
-      "Please list any collaborators, tutorials or third party assets used in the project",
+      "Please list any collaborators, tutorials etc used in the project:",
   },
   {
     type: "list",
     name: "license",
-    message: "Please choose a license for your project",
+    message: "Please choose a license for your project:",
     choices: ["MIT", "Apache 2.0", "GNU GPLv3"],
   },
   {
     type: "input",
     name: "contribution",
-    message: "Please provide any guidelines for contribution to this project",
+    message: "Please provide any guidelines for contribution to this project:",
   },
   {
     type: "input",
     name: "username",
-    message: "Please provide your GitHub username",
+    message: "Please provide your GitHub username:",
   },
   {
     type: "input",
     name: "email",
-    message: "Please enter your GitHub email address",
+    message: "Please enter your GitHub email address:",
   },
 ];
 
